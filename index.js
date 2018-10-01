@@ -4,12 +4,11 @@ function upperCaseCustomerName() {
   customerName = customerName.toUpperCase()
 }
 
-// var customerName = 'bob'
+
+
+
+
 // leastFavoriteCustomer = 'sour fred'
-//
-// function upperCaseCustomerName() {
-//   return customerName = customerName.toUpperCase()
-// }
 //
 // function changeLeastFavoriteCustomer(){
 //   leastFavoriteCustomer = 'sour fred'
