@@ -18,7 +18,7 @@ function changeLeastFavoriteCustomer() {
 }
 
 function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = 'tom';
-  let favoriteCustomer = 'joe';
+  // let favoriteCustomer = 'tom';
+  // let favoriteCustomer = 'joe';
   throw new SyntaxError('Cannot redeclare variables')
 }
