@@ -1,5 +1,8 @@
 var customerName = "bob"
 
+function upperCaseCustomerName() {
+  customerName = customerName.toUpperCase()
+}
 
 // var customerName = 'bob'
 // leastFavoriteCustomer = 'sour fred'
