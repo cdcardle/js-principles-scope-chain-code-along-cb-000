@@ -17,10 +17,8 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'tom';
 }
 
-function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = 'tom';
-  let favoriteCustomer = 'joe';
-  return favoriteCustomer;
-}
-
-attemptTwoFavoriteCustomers();
+// function attemptTwoFavoriteCustomers() {
+//   let favoriteCustomer = 'tom';
+//   let favoriteCustomer = 'joe';
+//   return favoriteCustomer;
+// }
