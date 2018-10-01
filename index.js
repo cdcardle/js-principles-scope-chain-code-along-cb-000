@@ -1,3 +1,6 @@
+var customerName = "bob"
+
+
 // var customerName = 'bob'
 // leastFavoriteCustomer = 'sour fred'
 //
